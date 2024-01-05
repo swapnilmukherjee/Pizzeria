@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cpsc4620">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/StarterCode/cpsc4620/codinasion.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/StarterCode/cpsc4620/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
